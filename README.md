@@ -13,7 +13,7 @@ Implement the paper "Algorithms for Inverse Reinforcement Learning" - (Ng & Russ
 ![](lp_results_1.PNG)
 
 #### Linear Programming IRL - Mountain Car
-![](lp_results_2.PNG)
+
 
 #### Linear Programming IRL - Continuous Gridworld
 ![](lp_results_3.PNG)
