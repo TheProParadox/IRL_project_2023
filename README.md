@@ -1,5 +1,5 @@
 # inverse_rl
-Implementing the two pioneering IRL papers "Algorithms for Inverse Reinforcement Learning" - (Ng &amp;Russell 2000) 
+Implementing the pioneering IRL papers "Algorithms for Inverse Reinforcement Learning" - (Ng &amp;Russell 2000) 
 
 ### Goal of the Project
 Implement the paper "Algorithms for Inverse Reinforcement Learning" - (Ng & Russell 2000) and replicate results for,
