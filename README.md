@@ -1,3 +1,6 @@
+# 6th Semester Project - Academic
+
+
 # inverse_rl
 Implementing the pioneering IRL papers "Algorithms for Inverse Reinforcement Learning" - (Ng &amp;Russell 2000) 
 
